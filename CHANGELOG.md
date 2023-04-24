@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-04-24)
+
+
+### Features
+
+* init ([3fb07f7](https://github.com/lwindbell/lwindbell-cdn/commit/3fb07f74acf48c8cf0c24272c6b47377dc51615a))
+
 ## [1.1.0](https://github.com/Mostlai/mostlai-cdn/compare/v1.0.0...v1.1.0) (2023-04-18)
 
 
